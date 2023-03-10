@@ -1,0 +1,11 @@
+Cinelitas\ICinelitasApplication.class
+Cinelitas\repository\PeliculaRepository.class
+Cinelitas\controller\PeliculaController.class
+Cinelitas\entity\Sala.class
+Cinelitas\service\IPeliculaService.class
+Cinelitas\service\SalaService.class
+Cinelitas\repository\SalaRepository.class
+Cinelitas\entity\Pelicula.class
+Cinelitas\service\PeliculaService.class
+Cinelitas\service\ISalaService.class
+.netbeans_automatic_build
